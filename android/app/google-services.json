@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229197723505",
+    "project_id": "testappl-b9816",
+    "storage_bucket": "testappl-b9816.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229197723505:android:b82c130b98578c29a268d0",
+        "android_client_info": {
+          "package_name": "com.deepthi.bank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrB22_uTfErTHGCrbLmfw8U8hA3Q4jnVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
